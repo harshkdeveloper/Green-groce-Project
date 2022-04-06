@@ -971,7 +971,7 @@ export default function Home() {
                             <p className="mb-0">
                                 <NavLink className="text-primary" to="#">
                                     <i className="mdi mdi-web"></i>{" "}
-                                    www.askbootstrap.com
+                                    harry@
                                 </NavLink>
                             </p>
                         </div>
