@@ -1087,11 +1087,11 @@ export default function Home() {
                                     <i className="mdi mdi-heart text-danger"></i>{" "}
                                     by{" "}
                                     <NavLink
-                                        to="https://askbootstrap.com/"
+                                        to="https://harry.com"
                                         target="_blank"
                                         className="text-primary"
                                     >
-                                        Ask Bootstrap
+                                       Harry
                                     </NavLink>
                                 </small>
                             </p>
